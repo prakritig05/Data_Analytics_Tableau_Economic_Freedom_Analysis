@@ -2,7 +2,7 @@
 
 ## By :-  PRAKRITI GUPTA
 
-## ( Tableau Public Link :-  [Tableau Public Visualization]([(https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17411000011350/2022EconomicFreedomScore?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]) )
+## Tableau Public Link :- [Tableau Public Visualization](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17411000011350/2022EconomicFreedomScore?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## Abstract
 
