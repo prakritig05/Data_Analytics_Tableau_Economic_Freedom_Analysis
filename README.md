@@ -79,6 +79,10 @@ area charts, line graphs etc.
 ● Compare regional trends for deeper insights.
 ```
 
-## Author
+## Author 
 
-PRAKRITI GUPTA
+👤 **Prakriti Gupta**  
+- GitHub: [@prakritig05](https://github.com/prakritig05)  
+- LinkedIn: [Prakriti Gupta](https://www.linkedin.com/in/prakriti-gupta-1147a9276/)  
+- BTech Student | Data Enthusiast | Passionate about Analytics  
+- Project created as part of a **virtual internship program** using Tableau.  
