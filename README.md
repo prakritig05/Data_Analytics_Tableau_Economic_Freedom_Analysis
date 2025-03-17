@@ -2,7 +2,7 @@
 
 ## Tableau Public Link :- [Tableau Public Visualization](https://public.tableau.com/views/MeasuringthePulseofProsperityAnIndexofEconomicFreedomAnalysis_17411000011350/2022EconomicFreedomScore?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## WebApp Public Link :- [WebApp Online Link] (https://prakritig05.github.io/WebApp/) 
+## WebApp Public Link :- [WebApp Online Link](https://prakritig05.github.io/WebApp/) 
 
 ## Project Overview
 
